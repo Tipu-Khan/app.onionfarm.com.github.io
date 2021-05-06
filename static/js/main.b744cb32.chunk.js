@@ -1615,10 +1615,10 @@
             icon: "TradeIcon",
             items: [{
                 label: "Exchange",
-                href: "http://localhost/onionfarm/dex.onionfarm.com/#/swap"
+                href: "https://tipu-khan.github.io/dex.onionfarm.com.github.io/#/swap"
             }, {
                 label: "Liquidity",
-                href: "http://localhost/onionfarm/dex.onionfarm.com/#/pool"
+                href: "https://tipu-khan.github.io/dex.onionfarm.com.github.io/#/pool"
             }]
         }, {
             label: "Farms",
